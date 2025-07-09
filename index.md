@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Personal Knowledge Management
+title: GitNotes
 nav_order: 1
 permalink: /
 ---
 
-# Personal Knowledge Management
+# GitNotes
 
 Welcome to my knowledge base. This site serves as a central repository for documentation, notes, and resources.
 
