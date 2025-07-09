@@ -1,0 +1,33 @@
+title: Personal Knowledge Management
+description: A personal knowledge management system
+baseurl: "/personal-km"
+url: "" # Your GitHub username.github.io
+github_username: ""
+markdown: kramdown
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Just the Docs settings
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "View on GitHub":
+    - ""  # Update with your repo URL
+
+# Collections
+collections:
+  docs:
+    output: true
+  notes:
+    output: true
+  resources:
+    output: true
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
