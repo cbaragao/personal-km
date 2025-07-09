@@ -1,20 +1,20 @@
-title: Personal Knowledge Management
+title: GitNotes
 description: A personal knowledge management system
 baseurl: "/personal-km"
-url: "" # Your GitHub username.github.io
-github_username: ""
+url: "cbaragao.github.io" # Your GitHub username.github.io
+github_username: "cbaragao"
 markdown: kramdown
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+color_scheme: dark
 
 # Just the Docs settings
 search_enabled: true
 heading_anchors: true
 aux_links:
   "View on GitHub":
-    - ""  # Update with your repo URL
+    - "https://github.com/cbaragao/personal-km"  # Update with your repo URL
 
 # Collections
 collections:
